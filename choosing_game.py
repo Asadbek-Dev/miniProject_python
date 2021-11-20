@@ -25,4 +25,4 @@ elif answer == 'right':
     else:
         print("Not a valid option. You lose.")
 else:
-    print('Not a valid option. You lose.')
+    print('Not a valid option.You lose.')
