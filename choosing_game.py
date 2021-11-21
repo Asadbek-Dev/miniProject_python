@@ -6,7 +6,7 @@ answer = input(
 
 if answer == "left":
     answer = input(
-        "You come to a river, you can walk around it or swim accross? Type walk to walk around and swim to swim accross: ")
+        "You come to a River, you can walk around it or swim accross? Type walk to walk around and swim to swim accross: ")
 
     if answer == "swim":
         print("You swam across and were eaton by an alligator.")
