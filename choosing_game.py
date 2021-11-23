@@ -19,7 +19,7 @@ elif answer == 'right':
         "You come to a bridge, it looks wobbly, do you want to cross it or head back (cross/back)?")
 
     if answer == "back":
-        print("You swam across and were eaton by an alligator.")
+        print("You go back and lose.")
     elif answer == "cross":
         print("You walked for many miles, ran out of water and you lost the game.")
     else:
